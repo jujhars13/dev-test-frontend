@@ -9,7 +9,7 @@ If you start to go way over time then just submit what you have and create a lis
 ### Details
 To complete this task, you must:
 - read the user story below and create a single webpage application to fulfil the requirements of the story
-- create a github repository for the task where you will **continuously** commit your code
+- fork this github repository for the task where you will **continuously** commit your code
 - create a **index.html** file to contain your project's main code
 - create a project **README.md** where you'll put your project description, notes, assumptions etc...
 - design the front end as you see fit
